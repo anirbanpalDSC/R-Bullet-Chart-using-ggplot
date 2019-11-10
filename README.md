@@ -28,5 +28,7 @@ Anirban Pal
 
 ### Acknowledgements
 * Reference: Marco Torchiano
+
       email: marco.torchiano@polito.it
+
     twitter: @mtorchiano
