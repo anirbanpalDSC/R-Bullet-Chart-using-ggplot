@@ -11,7 +11,8 @@ To execute this project, you will need the following applications -
 * Any R editor, e.g. R Studio, Jupyter or any other notebook
 
 ### Installing
-This particular project requires some dependent packages but the dependency would be mentioned as the part of the function and they should be installed automatically from _CRAN_ as needed.
+R packages: ggplot2
+You can import the program in your R project using `include('Bulletgraph.R', local=TRUE)` and use all the defined functions.
 
 ### Usage
 This section will be updated as the project is developed.
@@ -26,6 +27,6 @@ Git is used for project versioning.
 Anirban Pal
 
 ### Acknowledgements
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Reference: Marco Torchiano
+      email: marco.torchiano@polito.it
+    twitter: @mtorchiano
